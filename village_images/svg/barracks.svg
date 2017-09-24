@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="106.25"
+   height="168.75"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="barracks.svg"
+   inkscape:export-filename="C:\Users\Jason\Desktop\village_images\svg\barracks.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2851562"
+     inkscape:cx="320.56812"
+     inkscape:cy="290.60923"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.4375,-872.09375)">
+    <rect
+       style="fill:#deaa87;fill-opacity:1;stroke:#000000;stroke-width:0.94101053;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985"
+       width="82.398506"
+       height="141.16196"
+       x="24.113403"
+       y="899.20453" />
+    <path
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.49526867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 22.289082,899.20455 -8.513501,-25.39939 15.506734,0.48846 -0.304055,15.14193 11.249979,-0.97689 -0.304052,-14.16504 13.074298,-0.48846 0,14.16504 11.249984,0 0,-13.67658 10.945927,0 0,14.65349 10.945924,0.48844 0.304055,-15.63039 10.033764,-0.48845 0.608114,15.6304 8.817557,-0.97691 -0.60812,-15.63039 13.98646,0.48846 -13.37834,25.88782 z"
+       id="path2989"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
