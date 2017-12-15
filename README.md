@@ -1,9 +1,4 @@
 # MountainVillage
-A simple game made in Python 3 using the Livewires library.
-
-In order to play, first install livewires by following the instructions at the web address listed
-in the comments of the source code.
-
 An idea for a mountain-climber game.
 It uses the livewires package, a watered-down version of pygame, which can be installed with all the necessary packages here: https://github.com/livewires/python
 If I were to refactor it now, I would separate it into different packages so that it is less jumbled into one file.
