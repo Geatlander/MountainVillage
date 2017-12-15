@@ -39,9 +39,7 @@ The buildings and units cost the following amounts:
     Church: 250 wood, 250 gold
     
 
-![Alt text](../screenshots/mtn1.PNGraw=true "mtn1.PNG")
-
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
-
+![alt text](https://raw.githubusercontent.com/jasoncox576/MountainVillage/tree/master/screenshots/mtn1.PNG)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 Hope you enjoy!
