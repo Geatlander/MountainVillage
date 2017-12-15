@@ -39,7 +39,7 @@ The buildings and units cost the following amounts:
     Church: 250 wood, 250 gold
     
 
-![Alt text](../screenshots/mtn1.PNG raw=true "mtn1.PNG")
+![Alt text](../screenshots/mtn1.PNGraw=true "mtn1.PNG")
 
 ![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
