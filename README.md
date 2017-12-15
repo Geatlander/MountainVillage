@@ -37,9 +37,20 @@ The buildings and units cost the following amounts:
     House: 50 wood
     Barracks: 230 wood, 230 gold, 100 food
     Church: 250 wood, 250 gold
-    
 
-![alt text](https://raw.githubusercontent.com/jasoncox576/MountainVillage/tree/master/screenshots/mtn1.PNG)
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
+I decided to add several screenshots do display what a typical game may look like.
+![mtn1](https://user-images.githubusercontent.com/14042582/34022547-8c2161e4-e105-11e7-8534-9a6c01fa66b4.PNG)
+![mtn2](https://user-images.githubusercontent.com/14042582/34022549-907b9cfa-e105-11e7-930a-1df4e3713619.PNG)
+![mtn3](https://user-images.githubusercontent.com/14042582/34022551-945d1a9c-e105-11e7-9581-112a00bef98e.PNG)
+![mtn4](https://user-images.githubusercontent.com/14042582/34022553-96a070f6-e105-11e7-8fec-c782c336075e.PNG)
+
+![deforested](https://user-images.githubusercontent.com/14042582/34022567-9ff6f59e-e105-11e7-81ff-69a1bbb7fc3d.PNG)
+![dead](https://user-images.githubusercontent.com/14042582/34022569-a231faca-e105-11e7-9a90-a8cb5c7979eb.PNG)
+![capture](https://user-images.githubusercontent.com/14042582/34022572-a5d35c82-e105-11e7-9f5d-09c767686299.PNG)
+![win](https://user-images.githubusercontent.com/14042582/34022574-a861382a-e105-11e7-8df7-44a70b5474d2.PNG)
+
+
+
 
 Hope you enjoy!
